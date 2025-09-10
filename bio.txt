@@ -1,3 +1,4 @@
 Ad: Talıb
 Soyad: Talıblı
 Yaş: 23
+Universitet:Baku Engineering University
